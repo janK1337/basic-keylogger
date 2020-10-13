@@ -1,5 +1,5 @@
 # Node.js Basic Keylogger
-
+![](basickeylogger.gif)
 ### Usage
  **run:** ```npm install```  
  **then:** open **cmd/or any shell** with **keylogger dir** and type `node <example>.js` or `node <yourmainfile>.js`
