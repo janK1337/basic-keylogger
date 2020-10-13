@@ -1,8 +1,8 @@
 # Node.js Basic Keylogger
 
 ### Usage
- run: ```npm install```  
- then: open **cmd/or any shell** with **keylogger dir** and type `node <example>.js` or `node <yourmainfile>.js`
+ **run:** ```npm install```  
+ **then:** open **cmd/or any shell** with **keylogger dir** and type `node <example>.js` or `node <yourmainfile>.js`
 ### Make project into an executable that can be run even on devices without Node.js installed.
 **run:** `npm install pkg -g`  
  **Then run:** `pkg <mainfilename>.js`
