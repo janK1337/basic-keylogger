@@ -1,0 +1,20 @@
+{
+  "name": "basic-keylogger",
+  "version": "1.0.0",
+  "description": "Basic keylogger using ioHook module",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js keylogger",
+    "keylogger application",
+    "keylogger",
+    "keylogger js"
+  ],
+  "author": "Pawelekk",
+  "license": "MIT",
+  "dependencies": {
+    "iohook": "^0.6.6"
+  }
+}
