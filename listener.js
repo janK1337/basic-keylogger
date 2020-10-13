@@ -5,8 +5,8 @@ const ioHook = require("iohook");
 class keypress {
 
     static fromCharCode(num) {
-        if(num <= 31) {
-            num = "Control character";
+        if(num <= 31) { // https://www.w3schools.com/charsets/ref_html_ascii.asp
+            num = "Control character"; 
             return num;
         }
         if(num == 32) {
